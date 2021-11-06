@@ -12,4 +12,3 @@ Below you can see by topics what have done:
     - [x] - Types: serial, concurrent
     - [x] - QoS: levels of priority
 - [ ] - OOP Principles 
-    - [ ] 
