@@ -11,4 +11,5 @@ Below you can see by topics what have done:
     - [x] - Methods: sync, async, async/await
     - [x] - Types: serial, concurrent
     - [x] - QoS: levels of priority
-- [ ] - OOP Principles 
+- [ ] - OOP Principles
+- [ ] - Actors
