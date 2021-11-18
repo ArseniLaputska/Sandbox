@@ -9,6 +9,9 @@ Below you can see by topics what have done:
     - [x] - Memory leaks
 - [x] - Multithreading and GCD 
     - [x] - Methods: sync, async, async/await
+        - [ ] - Actors
     - [x] - Types: serial, concurrent
     - [x] - QoS: levels of priority
-- [ ] - OOP Principles
+- [x] - OOP Principles
+    - [x] - Polymorphism, Inheritance, Incapsulation, Abstraction
+- [ ] - SOLID Principles
