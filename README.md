@@ -14,4 +14,4 @@ Below you can see by topics what have done:
     - [x] - QoS: levels of priority
 - [x] - OOP Principles
     - [x] - Polymorphism, Inheritance, Incapsulation, Abstraction
-    - [ ] - SOLID
+    - [x] - SOLID
