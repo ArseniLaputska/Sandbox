@@ -1,8 +1,18 @@
 ## Sandbox
 Here I'm always trying something new or using it for repeating.
 
-Below you can see by topics what have done:
+### Below you can see by topics what have done:
 
+- [x] - OOP Principles
+    - [x] - Polymorphism, Inheritance, Incapsulation, Abstraction
+    - [ ] - SOLID
+- [x] - Architecture patterns
+    - [x] - MVC, MVVM, VIPER
+- [ ] - Auto Layout
+- [ ] - Network
+    - [ ] - Alamofire & URLSession
+    - [ ] - 
+    - [ ] -  
 - [x] - ARC
     - [x] - How it works
     - [x] - Weak, unowned and strong references
@@ -12,6 +22,9 @@ Below you can see by topics what have done:
         - [ ] - Actors
     - [x] - Types: serial, concurrent
     - [x] - QoS: levels of priority
-- [x] - OOP Principles
-    - [x] - Polymorphism, Inheritance, Incapsulation, Abstraction
-    - [x] - SOLID
+- [ ] - Life cycle of: 
+    - [ ] - App
+    - [ ] - UIView
+
+- [ ] - Data Persistent Services
+    - [ ] - CoreData & Realm
