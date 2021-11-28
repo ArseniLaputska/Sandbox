@@ -5,7 +5,7 @@ Here I'm always trying something new or using it for repeating.
 
 - [x] - OOP Principles
     - [x] - Polymorphism, Inheritance, Incapsulation, Abstraction
-    - [ ] - SOLID
+    - [x] - SOLID
 - [x] - Architecture patterns
     - [x] - MVC, MVVM, VIPER
 - [ ] - Auto Layout
