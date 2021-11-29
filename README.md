@@ -11,8 +11,6 @@ Here I'm always trying something new or using it for repeating.
 - [ ] - Auto Layout
 - [ ] - Network
     - [ ] - Alamofire & URLSession
-    - [ ] - 
-    - [ ] -  
 - [x] - ARC
     - [x] - How it works
     - [x] - Weak, unowned and strong references
