@@ -20,7 +20,7 @@ Here I'm always trying something new or using it for repeating.
         - [ ] - Actors
     - [x] - Types: serial, concurrent
     - [x] - QoS: levels of priority
-- [ ] - Life cycle of: 
+- [x] - Life cycle of: 
     - [ ] - App
     - [ ] - UIView
 
