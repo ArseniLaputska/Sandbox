@@ -9,7 +9,7 @@ Here I'm always trying something new or using it for repeating.
 - [x] - Architecture patterns
     - [x] - MVC, MVVM, VIPER
 - [ ] - Auto Layout
-- [ ] - Network
+- [x] - Network
     - [ ] - Alamofire & URLSession
 - [x] - ARC
     - [x] - How it works
