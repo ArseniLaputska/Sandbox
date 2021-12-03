@@ -10,7 +10,7 @@ Here I'm always trying something new or using it for repeating.
     - [x] - MVC, MVVM, VIPER
 - [x] - Auto Layout
 - [x] - Network
-    - [ ] - Alamofire & URLSession
+    - [x] - Alamofire & URLSession
 - [x] - ARC
     - [x] - How it works
     - [x] - Weak, unowned and strong references
