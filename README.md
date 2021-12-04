@@ -24,5 +24,5 @@ Here I'm always trying something new or using it for repeating.
     - [ ] - App
     - [ ] - UIView
 
-- [ ] - Data Persistent Services
+- [x] - Data Persistent Services
     - [ ] - CoreData & Realm
