@@ -21,7 +21,7 @@ Here I'm always trying something new or using it for repeating.
     - [x] - Types: serial, concurrent
     - [x] - QoS: levels of priority
 - [x] - Life cycle of: 
-    - [x] - App
+    - [x] - App life
     - [x] - UIView
 
 - [x] - Data Persistent Services
