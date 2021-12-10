@@ -6,6 +6,7 @@ Here I'm always trying something new or using it for repeating.
 - [x] - OOP Principles
     - [x] - Polymorphism, Inheritance, Incapsulation, Abstraction
     - [x] - SOLID
+- [ ] - Reactive Programming principles 
 - [x] - Architecture patterns
     - [x] - MVC, MVVM, VIPER
 - [x] - Auto Layout
