@@ -27,3 +27,8 @@ Here I'm always trying something new or using it for repeating.
 
 - [x] - Data Persistent Services
     - [ ] - CoreData & Realm
+
+- [ ] - Machine Learning
+    - [ ] - CoreML
+- [ ] - Augmented Reality
+    - [ ] - ARKit 
