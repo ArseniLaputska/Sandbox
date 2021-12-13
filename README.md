@@ -34,4 +34,3 @@ Here I'm always trying something new or using it for repeating.
     - [ ] - CoreML
 - [ ] - Augmented Reality
     - [ ] - ARKit
-- [ ] 
