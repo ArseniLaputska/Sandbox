@@ -12,13 +12,15 @@ Here I'm always trying something new or using it for repeating.
 - [x] - Auto Layout
 - [x] - Network
     - [x] - Alamofire & URLSession
-- [x] - ARC
-    - [x] - How it works
-    - [x] - Weak, unowned and strong references
-    - [x] - Memory leaks
+- [ ] - Memory Managment
+    - [ ] - MRC 
+    - [x] - ARC
+       - [x] - How it works
+       - [x] - Weak, unowned and strong references
+       - [x] - Memory leaks
 - [x] - Multithreading and GCD 
     - [x] - Methods: sync, async, async/await
-        - [ ] - Actors
+       - [ ] - Actors
     - [x] - Types: serial, concurrent
     - [x] - QoS: levels of priority
 - [x] - Life cycle of: 
@@ -31,4 +33,5 @@ Here I'm always trying something new or using it for repeating.
 - [ ] - Machine Learning
     - [ ] - CoreML
 - [ ] - Augmented Reality
-    - [ ] - ARKit 
+    - [ ] - ARKit
+- [ ] 
