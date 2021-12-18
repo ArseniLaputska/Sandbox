@@ -12,7 +12,7 @@ Here I'm always trying something new or using it for repeating.
 - [x] - Auto Layout
 - [x] - Network
     - [x] - Alamofire & URLSession
-- [ ] - Memory Managment
+- [x] - Memory Managment
     - [ ] - MRC 
     - [x] - ARC
        - [x] - How it works
