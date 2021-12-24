@@ -26,7 +26,8 @@ Here I'm always trying something new or using it for repeating.
 - [x] - Life cycle of: 
     - [x] - App life
     - [x] - UIView
-
+- [ ] - Backend
+    - [ ] - Vapor
 - [x] - Data Persistent Services
     - [ ] - CoreData & Realm
 
