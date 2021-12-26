@@ -1,5 +1,5 @@
 ## Sandbox
-Here I'm always trying something new or using it for repeating.
+Here I'm always trying and note to learn something new topics or using it for repeating.
 
 ### Below you can see by topics what have done:
 
