@@ -15,7 +15,7 @@ Here I'm always trying and note to learn something new topics or using it for re
 - [x] - Memory Managment
     - [ ] - MRC 
     - [x] - ARC
-       - [x] - How it works
+       - [x] - Value & reference types
        - [x] - Weak, unowned and strong references
        - [x] - Memory leaks
 - [x] - Multithreading and GCD 
